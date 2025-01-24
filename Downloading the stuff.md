@@ -18,7 +18,9 @@ Choose RStudio Desktop (Free) and well, I mean if you have the money sonny I won
 Clicking on RStudio Desktop would take you to another landing page, and scrolling down should show you a list of operating systems and their respective download links. 
 
 I am putting the download links for macOS and Windows here to save your time :) 
+
 For Windows 10/11 : https://download1.rstudio.org/electron/windows/RStudio-2024.12.0-467.exe
+
 For macOS 13+     : https://download1.rstudio.org/electron/macos/RStudio-2024.12.0-467.dmg 
 
 It should be a quick download, then simply follow through and install it on your computer. 
