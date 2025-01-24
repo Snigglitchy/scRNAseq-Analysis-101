@@ -15,4 +15,9 @@ This, is the ULTIMATE MOST EPIC-EST GUIDE FOR AN ABSOLUTE NOOB.
 Stick around and you’ll learn something, if not everything. 
 
 I have a great plan of action for you. 
+Just follow the steps, ok? 
+
+૮ ˶ᵔ ᵕ ᵔ˶ ა
+
 ARE YOU READY? 
+
